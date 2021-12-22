@@ -1,0 +1,9 @@
+.words{font-family: 'Courgette'!important;font-size: 30px!important;line-height: 55px!important;color: #1C2038;}
+.wordsquote{text-align: end;}
+.founder_name{font-family: 'Roboto'!important;font-size: 22px!important;line-height: 20px!important;color: #6A6A6A!important;}
+.section_words{padding: 60px 85px;}
+
+/* On screens that are 600px wide or less, the background color is olive */
+@media screen and (max-width: 600px) {
+    .section_words{padding: 50px 24px;}
+  }

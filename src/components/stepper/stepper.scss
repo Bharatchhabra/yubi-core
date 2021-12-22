@@ -1,0 +1,34 @@
+$primary-color: #a7a0a0;
+$error-color: #e63946;
+$border-radius: 10px;
+
+input {
+  border: 1px solid rgba($primary-color, 0.8);
+  border-radius: $border-radius;
+  padding: 1rem 1rem;
+  padding-left: 1rem;
+  font-size: 1rem;
+}
+
+.form-row {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1rem;
+}
+
+.input-error {
+  border-color: $error-color;
+}
+
+.error {
+  color: $error-color;
+  font-size: 1rem;
+  margin-top: 0.3rem;
+}
+
+.dcma_stepper {
+  padding-top: 110px;
+}
+.css-heg063-MuiTabs-flexContainer button {
+  margin: 0 140px 0 20px;
+}

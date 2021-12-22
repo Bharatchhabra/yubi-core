@@ -1,0 +1,6 @@
+.section_commodities{padding: 40px 85px 60px 85px}
+
+/* On screens that are 600px wide or less, the background color is olive */
+@media screen and (max-width: 600px) {
+    .section_commodities{padding: 50px 24px;}
+  }

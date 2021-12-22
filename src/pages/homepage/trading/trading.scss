@@ -1,0 +1,9 @@
+.headingtext{font-family: 'Roboto'!important;font-size: 40px!important;
+    line-height: 47px!important;color: #4E99A7!important;}
+.trading_pera{font-family: 'Roboto'!important; font-size: 20px!important;line-height: 29px!important;color: #000000!important;padding: 20px 0;}
+.more_btn{background: #07D4FA!important;box-shadow: 2px 4px 10px 3px rgba(7, 212, 250, 0.5)!important;border-radius: 100px!important;color:#fff!important;}
+.trading_section{padding: 40px 0 0px 85px!important;}
+/* On screens that are 600px wide or less, the background color is olive */
+@media screen and (max-width: 600px) {
+.trading_section{padding: 40px 0 0 24px!important;}
+}

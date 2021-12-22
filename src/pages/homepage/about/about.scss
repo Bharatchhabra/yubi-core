@@ -1,0 +1,18 @@
+.about_headingtext {font-family: "Roboto" !important;font-size: 40px !important;
+  color: #fff !important;line-height: 47px !important;}
+.about_heading_divider {border: 4px solid #07d4fa !important;left: 210px !important;position: relative !important;margin: 8px 0 !important;width: 405px !important;}
+.list_icon {color: #fff !important;font-size: 40px;}
+.list_text {color: #fff !important;font-family: "Roboto" !important;
+  .css-10hburv-MuiTypography-root {font-size: 22px !important;line-height: 29px !important;margin-top: 30px;}
+  .css-83ijpv-MuiTypography-root {font-size: 18px !important;line-height: 23px !important;color: #ffffff !important;margin-top: 20px;}
+}
+.css-cveggr-MuiListItemIcon-root {min-width: 50px !important;top: -15px;position: relative;}
+.about_section_img{padding-top: 65px;}
+.section_about{background: #1C2038; padding: 60px 85px;}
+
+/* On screens that are 600px wide or less, the background color is olive */
+@media screen and (max-width: 600px) {
+  .section_about{padding: 50px 24px;}
+  .about_heading_divider {left: 0px !important;width: 324px !important;
+}
+}

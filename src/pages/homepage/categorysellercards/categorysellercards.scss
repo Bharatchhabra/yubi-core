@@ -1,0 +1,12 @@
+.heading_text{font-weight: 500!important;font-size: 40px!important;line-height: 40px!important;color: #000000!important;font-family: 'Roboto'!important;}
+.css-9mgopn-MuiDivider-root{border: 4px solid #07D4FA!important;width: 285.01px;margin: 10px 0!important;}
+.card_header{font-family: 'Roboto'!important;font-size:25px!important;    line-height: 29px!important;padding-bottom: 32px;color: #FFFFFF!important;}
+.card_content{font-family: 'Roboto'!important;font-size: 18px!important;line-height: 23px!important;color: #FFFFFF!important;}
+.getstarted_btn{font-family: 'Roboto'!important;font-size: 20px!important;line-height: 23px; display: flex;align-items: center;color: #FFFFFF!important;text-transform: capitalize!important;}
+.css-bhp9pd-MuiPaper-root-MuiCard-root{box-shadow: none!important;}
+.category_cards{padding: 100px 60px;}
+
+/* On screens that are 600px wide or less, the background color is olive */
+@media screen and (max-width: 600px) {
+    .category_cards{padding: 50px 24px;}
+  }

@@ -1,0 +1,15 @@
+.explore_heading_divider {border: 4px solid #07d4fa !important;left: 145px !important;position: relative !important;margin: 8px 0 !important;width: 286.45px !important;}
+.explore_item{height: 103px;margin-bottom: 5px;}
+.explore_divider{border: 2px solid #FFFFFF!important; width: 165px!important; margin: auto!important; }
+.explore_card_text{ font-family: 'Roboto'!important;font-size: 25px!important;text-align: center;color: #FFFFFF;padding-top: 5px}
+.explore_content{padding-top: 40px;}
+.explore_card_items{margin-right: 60px!important;}
+.section_explore{background: #1C2038;padding: 60px 85px;}
+
+/* On screens that are 600px wide or less, the background color is olive */
+@media screen and (max-width: 600px) {
+    .explore_card_items{margin-right: 0px!important;}
+    .section_explore{padding: 50px 24px;}
+    .explore_heading_divider {left: 0px !important;width: 222.45px !important;
+    }
+  }

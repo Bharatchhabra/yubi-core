@@ -1,0 +1,6 @@
+.fingertip_section{background: #21B7C8; padding: 40px 85px 10px!important;}
+
+/* On screens that are 600px wide or less, the background color is olive */
+@media screen and (max-width: 600px) {
+    .fingertip_section{padding: 40px 24px 10px!important;}
+  }
